@@ -1,8 +1,116 @@
 {
-    "AT": { "LanguageTag": "de-AT", "InputLocale": "00000407" },
-    "US": { "LanguageTag": "en-US", "InputLocale": "00000409" },
-    "GB": { "LanguageTag": "en-GB", "InputLocale": "00000809" },
-    "FR": { "LanguageTag": "fr-FR", "InputLocale": "0000040C" },
-    "DE": { "LanguageTag": "de-DE", "InputLocale": "00000407" }
-    
+  "US": {
+    "LanguageTag": "en-US",
+    "InputLocale": "00000409",
+    "GeoID": 244,
+    "TimeZone": "Pacific Standard Time"
+  },
+  "GB": {
+    "LanguageTag": "en-GB",
+    "InputLocale": "00000809",
+    "GeoID": 242,
+    "TimeZone": "GMT Standard Time"
+  },
+  "DE": {
+    "LanguageTag": "de-DE",
+    "InputLocale": "00000407",
+    "GeoID": 94,
+    "TimeZone": "W. Europe Standard Time"
+  },
+  "AT": {
+    "LanguageTag": "de-AT",
+    "InputLocale": "00000407",
+    "GeoID": 94,
+    "TimeZone": "W. Europe Standard Time"
+  },
+  "CH": {
+    "LanguageTag": "de-CH",
+    "InputLocale": "00000807",
+    "GeoID": 221,
+    "TimeZone": "W. Europe Standard Time"
+  },
+  "FR": {
+    "LanguageTag": "fr-FR",
+    "InputLocale": "0000040C",
+    "GeoID": 84,
+    "TimeZone": "Romance Standard Time"
+  },
+  "IT": {
+    "LanguageTag": "it-IT",
+    "InputLocale": "00000410",
+    "GeoID": 118,
+    "TimeZone": "W. Europe Standard Time"
+  },
+  "ES": {
+    "LanguageTag": "es-ES",
+    "InputLocale": "0000040A",
+    "GeoID": 217,
+    "TimeZone": "Romance Standard Time"
+  },
+  "NL": {
+    "LanguageTag": "nl-NL",
+    "InputLocale": "00000413",
+    "GeoID": 143,
+    "TimeZone": "W. Europe Standard Time"
+  },
+  "BE": {
+    "LanguageTag": "nl-BE",
+    "InputLocale": "00000813",
+    "GeoID": 21,
+    "TimeZone": "Romance Standard Time"
+  },
+  "DK": {
+    "LanguageTag": "da-DK",
+    "InputLocale": "00000406",
+    "GeoID": 61,
+    "TimeZone": "Romance Standard Time"
+  },
+  "SE": {
+    "LanguageTag": "sv-SE",
+    "InputLocale": "0000041D",
+    "GeoID": 221,
+    "TimeZone": "W. Europe Standard Time"
+  },
+  "NO": {
+    "LanguageTag": "nb-NO",
+    "InputLocale": "00000414",
+    "GeoID": 177,
+    "TimeZone": "W. Europe Standard Time"
+  },
+  "FI": {
+    "LanguageTag": "fi-FI",
+    "InputLocale": "0000040B",
+    "GeoID": 77,
+    "TimeZone": "FLE Standard Time"
+  },
+  "PL": {
+    "LanguageTag": "pl-PL",
+    "InputLocale": "00000415",
+    "GeoID": 175,
+    "TimeZone": "Central European Standard Time"
+  },
+  "CZ": {
+    "LanguageTag": "cs-CZ",
+    "InputLocale": "00000405",
+    "GeoID": 75,
+    "TimeZone": "Central Europe Standard Time"
+  },
+  "HU": {
+    "LanguageTag": "hu-HU",
+    "InputLocale": "0000040E",
+    "GeoID": 104,
+    "TimeZone": "Central Europe Standard Time"
+  },
+  "PT": {
+    "LanguageTag": "pt-PT",
+    "InputLocale": "00000816",
+    "GeoID": 207,
+    "TimeZone": "GMT Standard Time"
+  },
+  "IE": {
+    "LanguageTag": "en-IE",
+    "InputLocale": "00001809",
+    "GeoID": 87,
+    "TimeZone": "GMT Standard Time"
+  }
 }
