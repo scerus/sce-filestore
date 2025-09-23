@@ -1,0 +1,6 @@
+{
+    "US": { "LanguageTag": "en-US", "InputLocale": "00000409" },
+    "GB": { "LanguageTag": "en-GB", "InputLocale": "00000809" },
+    "FR": { "LanguageTag": "fr-FR", "InputLocale": "0000040C" },
+    "DE": { "LanguageTag": "de-DE", "InputLocale": "00000407" }
+}
