@@ -1,7 +1,8 @@
 {
+    "AT": { "LanguageTag": "de-AT", "InputLocale": "00000407" },
     "US": { "LanguageTag": "en-US", "InputLocale": "00000409" },
     "GB": { "LanguageTag": "en-GB", "InputLocale": "00000809" },
     "FR": { "LanguageTag": "fr-FR", "InputLocale": "0000040C" },
-    "DE": { "LanguageTag": "de-DE", "InputLocale": "00000407" },
-    "AT": { "LanguageTag": "de-AT", "InputLocale": "00000407" }
+    "DE": { "LanguageTag": "de-DE", "InputLocale": "00000407" }
+    
 }
